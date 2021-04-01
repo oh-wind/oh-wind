@@ -2,11 +2,16 @@
 
 The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=oh-wind&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
+</a>
+
 I am:
 - :penguin: linux enthusiast
 - :lantern: ACG lover
 - :computer: coder
 - :hammer_and_pick: communist
+
 
 ## My Technical Preferences
 ![C][shield_c] ![C++][shield_cpp] ![Rust][shield_rust] ![git][shield_git] ![github][shield_github] 
