@@ -3,7 +3,7 @@
 The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 
 I am:
-- :penguin: linux hobbyist
+- :penguin: linux enthusiast
 - :lantern: ACG lover
 - :computer: coder
 - :hammer_and_pick: communist
