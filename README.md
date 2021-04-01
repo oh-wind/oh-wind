@@ -12,6 +12,7 @@ I am:
 ![C][shield_c] ![C++][shield_cpp] ![Rust][shield_rust] ![git][shield_git] ![github][shield_github] 
 ![java][shield_java] ![kotlin][shield_kotlin]
 ![C#][shield_c-sharp] ![linux][shield_linux] ![vscode][shield_vs-code] ![vscode][shield_vim]
+![Arch][shield_arch]
 
 <!-- Shield Links -->
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
@@ -59,4 +60,5 @@ I am:
 [shield_typescript]: https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff
 [shield_vs-code]: http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff
 [shield_vue-js]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-js&logoColor=ffffff
-[shield_vim]:    https://img.shields.io/badge/-vim-019733?style=flat&logo=vim&logoColor=ffffff
+[shield_vim]:https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff
+[shield_arch]:https://img.shields.io/badge/-Arch-1793D1?style=flat&logo=arch&logoColor=ffffff
