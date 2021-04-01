@@ -11,7 +11,9 @@ I am:
 - :lantern: ACG lover
 - :computer: coder
 - :hammer_and_pick: communist
+<br/>
 
+----------
 
 ## My Technical Preferences
 ![C][shield_c] ![C++][shield_cpp] ![Rust][shield_rust] ![git][shield_git] ![github][shield_github] 
