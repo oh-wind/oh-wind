@@ -61,4 +61,4 @@ I am:
 [shield_vs-code]: http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=ffffff
 [shield_vue-js]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue-js&logoColor=ffffff
 [shield_vim]:https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=ffffff
-[shield_arch]:https://img.shields.io/badge/-Arch-1793D1?style=flat&logo=archlinux&logoColor=ffffff
+[shield_arch]:https://img.shields.io/badge/-Arch-1793D1?style=flat&logo=arch-linux&logoColor=ffffff
