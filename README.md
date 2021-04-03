@@ -10,7 +10,7 @@ I am:
 - :penguin: linux enthusiast
 - :lantern: ACG lover
 - :computer: coder
-- :hammer_and_pick: communist
+- :hammer_and_pick: a communist
 <br/>
 
 ----------
