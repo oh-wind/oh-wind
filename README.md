@@ -7,9 +7,9 @@ The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 </a>
 
 I am:
-- :penguin: linux enthusiast
+- :penguin: linux enthusiast, using Arch linux distribution
 - :lantern: ACG lover
-- :computer: coder
+- :computer: rust coder
 - :hammer_and_pick: a communist
 <br/>
 
