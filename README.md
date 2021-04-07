@@ -10,7 +10,7 @@ I am:
 - :penguin: linux enthusiast, using Arch linux distribution
 - :lantern: ACG lover
 - :computer: rust coder
-- :hammer_and_pick: a communist
+
 <br/>
 
 ----------
