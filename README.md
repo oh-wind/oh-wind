@@ -1,4 +1,4 @@
-# ohwind
+# Hi👋, I'm Cybird
 
 The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 
