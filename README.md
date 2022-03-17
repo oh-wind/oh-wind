@@ -2,16 +2,12 @@
 
 The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=oh-wind&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
-</a>
+
 
 **I am:**
-- :penguin: linux enthusiast, using Arch linux distribution
+- :penguin: Linux enthusiast, using Arch linux distribution
 - :lantern: ACG lover
-- <img align="center" src="https://www.rust-lang.org/static/images/favicon.svg" width="20px"> rust coder
-
-<br/>
+- <img align="center" src="https://www.rust-lang.org/static/images/favicon.svg" width="19px"> Rust coder
 
 ----------
 
@@ -20,6 +16,11 @@ The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 ![java][shield_java] ![kotlin][shield_kotlin]
 ![C#][shield_c-sharp] ![linux][shield_linux] ![vscode][shield_vs-code] ![vscode][shield_vim]
 ![Arch][shield_arch]
+
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=oh-wind&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" width="480px">
+</a>
 
 <!-- Shield Links -->
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
