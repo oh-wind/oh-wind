@@ -9,7 +9,7 @@ The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 **I am:**
 - :penguin: linux enthusiast, using Arch linux distribution
 - :lantern: ACG lover
-- :computer: rust coder
+- <img align="center" src="https://www.rust-lang.org/static/images/favicon.svg" width="20px"> rust coder
 
 <br/>
 
