@@ -19,7 +19,7 @@ The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=oh-wind&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" width="480px">
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-wind&hide=html&theme=radical" width="480px">
 </a>
 
 <!-- Shield Links -->
