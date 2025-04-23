@@ -17,10 +17,10 @@ The wind is free, the wind is gentle, the wind is wild. That's why I praise it.
 ![C#][shield_c-sharp] ![linux][shield_linux] ![vscode][shield_vs-code] ![vscode][shield_vim]
 ![Arch][shield_arch]
 
-<br/>
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-wind&hide=html&theme=radical" width="480px">
-</a>
+<!-- <br/> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" > -->
+<!-- <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oh-wind&hide=html&theme=radical" width="480px"> -->
+<!-- </a> -->
 
 <!-- Shield Links -->
 [shield_angular]: https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff
